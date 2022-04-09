@@ -1,0 +1,7 @@
+User appy submitted 1 CRUD queries on TEST on database APPYS
+User appy submitted 1 CRUD queries on GG on database APPYS
+User santa submitted 1 CRUD queries on TEST2 on database APPYS
+User santa submitted 1 CRUD queries on TEST on database APPYS
+User appy submitted 5 CRUD queries on PERSON on database DEMO
+User appy submitted 10 CRUD queries on ORDER on database DEMO
+User user submitted 1 CRUD queries on PERSON on database TAB

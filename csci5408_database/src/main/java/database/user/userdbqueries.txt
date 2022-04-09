@@ -1,0 +1,3 @@
+User appy submitted 93 queries on database APPYS
+User santa submitted 7 queries on database APPYS
+User user submitted 3 queries on database TAB

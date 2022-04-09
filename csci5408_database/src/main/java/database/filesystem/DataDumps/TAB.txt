@@ -1,0 +1,3 @@
+USE DATABASE TAB;
+CREATE TABLE PERSON ( PersonName VARCHAR PRIMARY KEY, PersonAddress VARCHAR );
+INSERT INTO PERSON (PersonName, PersonAddress ) VALUES ('Sherlock', '221-backer street');
